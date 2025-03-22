@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-dynamic-sass-themes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vite plugin for dynamically compiling and applying SASS themes in your Vite project. This plugin allows you to manage multiple SASS themes, compile them on-the-fly, and dynamically update the styles in the browser without a full page reload.",
   "main": "dist/index.js",
   "type": "module",
