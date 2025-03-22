@@ -1,0 +1,53 @@
+{
+  "name": "vite-plugin-dynamic-sass-themes",
+  "version": "1.0.0",
+  "description": "A Vite plugin for dynamically compiling and applying SASS themes in your Vite project. This plugin allows you to manage multiple SASS themes, compile them on-the-fly, and dynamically update the styles in the browser without a full page reload.",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prosanabani/vite-plugin-dynamic-sass-themes.git"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin",
+    "sass",
+    "scss",
+    "themes",
+    "dynamic-themes",
+    "theme-switching",
+    "theme-management",
+    "hmr",
+    "live-reload",
+    "css",
+    "styling",
+    "css-preprocessor",
+    "style-injection",
+    "theme-engine",
+    "theme-loader",
+    "frontend",
+    "web-development",
+    "modern-web"
+  ],
+  "author": "Ali Ibrahim Al-Sanabani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prosanabani/vite-plugin-dynamic-sass-themes/issues"
+  },
+  "homepage": "https://github.com/prosanabani/vite-plugin-dynamic-sass-themes#readme",
+  "dependencies": {
+    "sass": "^1.62.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "typescript": "^5.0.0",
+    "@types/node": "^18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
+}
